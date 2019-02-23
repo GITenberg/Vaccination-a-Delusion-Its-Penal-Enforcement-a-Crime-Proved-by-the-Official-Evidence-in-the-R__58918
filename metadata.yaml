@@ -1,5 +1,8 @@
 _repo: Vaccination-a-Delusion-Its-Penal-Enforcement-a-Crime-Proved-by-the-Official-Evidence-in-the-R__58918
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58918-h/images/cover.jpg
 creator:
   author:
     agent_name: Wallace, Alfred Russel
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/955
     wikipedia: http://en.wikipedia.org/wiki/Alfred_Russel_Wallace
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58918#Vaccination-a-Delusion-Its-Penal-Enforcement-a-Crime-Proved-by-the-Official-Evidence-in-the-R_
 gutenberg_issued: '2019-02-19'
 gutenberg_type: Text
 identifiers:
